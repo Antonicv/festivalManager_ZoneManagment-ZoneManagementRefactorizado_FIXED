@@ -1,29 +1,10 @@
 /**
  * ===============================================================================
- * ZONESMANAGEMENT - COORDINADOR REFACTORIZADO (OPCIÓN A CONSERVADORA)
+ * ZONESMANAGEMENT - 
+ * 
  * ===============================================================================
  * 
- * Versión refactorizada del componente ZonesManagement que implementa la 
- * arquitectura modular conservadora del Plan Maestro de Refactorización.
  * 
- * CAMBIOS IMPLEMENTADOS:
- * - ✅ Hook unificado useZonesManagement (280 líneas → 50+ exports)
- * - ✅ Componentes UI modulares (AccessTypeBadges, CheckpointTable, ZoneSection)
- * - ✅ Arquitectura 6 archivos conservadora
- * - ✅ Funcionalidad 100% preservada
- * - ✅ Reducción 1589 líneas → ~900 líneas
- * 
- * ESTRUCTURA MODULAR:
- * - hooks.ts: Lógica de estado y operaciones
- * - UIComponents.tsx: Componentes de interfaz reutilizables  
- * - services.ts: Conexión con backend
- * - types.ts: Definiciones TypeScript
- * - CapacityPolicyChip.tsx: Componente existente preservado
- * - index.tsx: API pública
- * 
- * @version 2.0.0 - Arquitectura Modular
- * @author Almirante Temporal 
- * @date 2025-01-31
  */
 
 import React from 'react';

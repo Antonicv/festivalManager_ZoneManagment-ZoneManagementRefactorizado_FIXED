@@ -1,10 +1,9 @@
 /**
  * =============================================================================
- * HOOK CONSERVADOR SIMPLIFICADO - useZonesManagement
+ * HOOK - useZonesManagement
  * =============================================================================
  * 
- * Hook refactorizado que combina toda la lógica de gestión de zonas
- * manteniendo 100% de funcionalidad del componente original.
+ * 
  */
 
 import React, { useState, useEffect, useMemo, useCallback } from 'react';

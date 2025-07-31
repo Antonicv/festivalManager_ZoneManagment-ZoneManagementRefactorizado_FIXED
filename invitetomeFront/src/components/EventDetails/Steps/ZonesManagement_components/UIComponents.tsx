@@ -1,20 +1,9 @@
 /**
  * =============================================================================
- * COMPONENTES UI SIMPLIFICADOS - UIComponents.tsx
+ * COMPONENTES UI - UIComponents.tsx
  * =============================================================================
  * 
- * Componentes visuales reutilizables extraídos del componente monolítico
- * siguiendo el enfoque conservador. Estos componentes mantienen la funcionalidad
- * original pero están organizados de manera modular para mejorar la mantenibilidad.
  * 
- * COMPONENTES INCLUIDOS:
- * - ✅ AccessTypeBadges: Badges de tipos de acceso
- * - ✅ CheckpointTable: Tabla de checkpoints con grid de Vaadin
- * - ✅ ZoneSection: Sección individual de zona con checkpoints
- * - ✅ DeviceRoleTabs: Tabs para roles de dispositivos
- * 
- * @author Almirante Temporal
- * @version 1.0.0 - Refactoring Conservador
  */
 
 import React from 'react';

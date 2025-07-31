@@ -1,22 +1,9 @@
 /**
  * ===============================================================================
- * ÍNDICE PÚBLICO DE LA ARQUITECTURA MODULAR ZONESMANAGEMENT
+ * ÍNDICE ZONESMANAGEMENT
  * ===============================================================================
  * 
- * Este archivo sirve como la API pública del módulo refactorizado ZonesManagement.
- * Expone de manera organizada todos los componentes, hooks y utilidades
- * que conforman la nueva arquitectura modular conservadora.
- * 
- * ESTRUCTURA DE EXPORTACIONES:
- * - ✅ Hook unificado useZonesManagement
- * - ✅ Componentes UI modulares (AccessTypeBadges, CheckpointTable, etc.)
- * - ✅ Tipos TypeScript públicos
- * - ✅ Constantes y utilidades
- * - ✅ Información del módulo para debugging
- * 
- * @version 2.0.0 - Arquitectura Modular Conservadora
- * @author Almirante Temporal
- * @date 2025-01-31
+
  */
 
 // ========== EXPORTACIONES DEL HOOK PRINCIPAL ==========
